@@ -800,6 +800,16 @@
       "total_wallpaper": "42"
     }
   ],
+
+    ],
+  "category": [
+    {
+      "category_id": "1",
+      "category_name": "Anime",
+      "category_image": "https://i.pinimg.com/750x/e1/a6/0b/e1a60b242d91342b86eaa96b216047f6.jpg",
+      "total_wallpaper": "42"
+    }
+  ],
   "menu": [
     {
       "menu_id": "1",
